@@ -1,0 +1,9 @@
+[{ "author" : "Dirk Hornstra",
+    "version": "1.0",
+    "name" : "autocreate",
+    "url" : "https://techblog.dirkhornstra.nl",
+    "exclude" : "",
+    "rightbar" : [],
+    "bottombar" : [],
+    "contextmenu" : []
+    }]
